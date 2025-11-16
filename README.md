@@ -40,7 +40,6 @@ I am open to collaboration and exciting opportunities. Feel free to connect:
 
 [![GitHub](https://img.shields.io/badge/GitHub-v4viki-black?style=flat-square&logo=github)](https://github.com/v4viki)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas_Ahirwar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vikas-ahirwar)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle) (add if applicable)  
 
 ---
 
